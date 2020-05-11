@@ -1,4 +1,5 @@
 # The source code used to build this project can be found here: https://github.com/vprusso/youtube_tutorials/tree/master/twitter_python
+# Youtube video for demonstration: https://www.youtube.com/watch?v=cSus5A0yFFA&feature=youtu.be
 
 from tweepy import API 
 from tweepy import Cursor
